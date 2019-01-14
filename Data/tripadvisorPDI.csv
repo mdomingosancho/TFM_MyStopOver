@@ -1,0 +1,768 @@
+nombre;tipo;opiniones;rank
+Museo del Prado;Museos especializados;49563;2
+Parque del Retiro;Edificios con valor arquitectónico;47398;1
+Palacio Real de Madrid;Edificios con valor arquitectónico;29948;5
+Mercado San Miguel;Mercadillos;26483;10
+Plaza Mayor;Edificios con valor arquitectónico;22294;9
+Estadio Santiago Bernabéu;Campos y estadios;19757;4
+Museo Nacional Thyssen-Bornemisza;Museos especializados;14587;3
+Museo Nacional Centro de Arte Reina Sofía;Museos de arte;14202;6
+Gran Vía;Puntos emblemáticos y de interés;11595;7
+Templo de Debod;Lugares históricos;11580;8
+Puerta del Sol;Puntos emblemáticos y de interés;9450;78
+Estación de Atocha;Edificios con valor arquitectónico;5826;70
+Museo Sorolla;Museos de arte;5734;11
+Plaza de Cibeles;Monumentos y estatuas;4971;35
+Palacio de Cibeles;Edificios con valor arquitectónico;4599;30
+Paseo del Prado;Puntos emblemáticos y de interés;4106;23
+Puerta de Alcalá;Monumentos y estatuas;3718;50
+Museo Arqueológico Nacional;Museos de arte;3685;12
+Palacio De Cristal;Edificios con valor arquitectónico;3316;59
+Catedral de Sta María la Real de la Almudena;Iglesias y catedrales;3242;66
+Plaza de Oriente;Puntos emblemáticos y de interés;2938;33
+Zoo Aquarium de Madrid;Acuarios;2658;129
+Plaza de Santa Ana;Puntos emblemáticos y de interés;2624;53
+Plaza de Toros de Las Ventas;Edificios con valor arquitectónico;2316;75
+Parque de Atracciones;Parques temáticos;2121;253
+Parque Madrid Río;Parques;1999;26
+Museo Cerralbo;Lugares históricos;1878;13
+CaixaForum;Museos especializados;1829;39
+Museo Naval;Museos de historia;1675;21
+Barrio de Salamanca;Paseos por zonas históricas;1666;27
+Edificio Metrópolis;Puntos emblemáticos y de interés;1662;28
+Fuente de Cibeles;Fuentes;1636;57
+Real Basílica de San Francisco el Grande;Lugares sagrados y religiosos;1580;19
+Plaza de España;Monumentos y estatuas;1547;105
+Mercado de San Antón;Mercadillos;1521;93
+Sobrino de Botín;Lugares históricos;1509;74
+Real Jardín Botánico;Jardines;1466;132
+Cava Baja Gallery;Galerías de arte;1433;41
+Parque de El Capricho;Jardines;1397;14
+Teleferico;Tranvías;1387;174
+El Rastro;Mercadillos;1316;125
+La Latina;Barrios;1230;37
+Ermita De San António De La Florida;Lugares sagrados y religiosos;1035;25
+Faunia;Parajes naturales;1019;199
+Jardines de Sabatini;Jardines;987;71
+Museo Lázaro Galdiano;Museos de arte;983;20
+Círculo de Bellas Artes;null;970;100
+Museo de Cera de Madrid;Museos especializados;963;374
+Museo del Romanticismo;Museos especializados;945;45
+Matadero Madrid;Galerías de arte;931;55
+Monasterio de Las Descalzas Reales;Edificios con valor arquitectónico;781;76
+Gay Madrid & the Chueca District;Barrios;775;65
+Fundación Mapfre Recoletos;Puntos emblemáticos y de interés;724;24
+Casa Museo Lope de Vega;Museos de historia;631;17
+El Oso y el Madroño;Puntos emblemáticos y de interés;582;108
+Teatro Real;Edificios con valor arquitectónico;557;88
+Malasaña;Barrios;552;38
+Mercado de San Anton;Mercados de agricultores;549;64
+Madrid Xanadú;Esquí y snowboard;541;106
+Fuente de Neptuno;Fuentes;540;87
+Teatro Lara;Teatros;529;101
+Teatro Lope de Vega;Teatros;526;99
+Iglesia de San Antonio de Los Alemanes;Iglesias y catedrales;511;15
+Plaza de la Villa;Puntos emblemáticos y de interés;508;82
+Puente de Toledo;Puntos emblemáticos y de interés;490;22
+Museo Nacional de Ciencias Naturales;Museos de ciencias;486;166
+Casa de Campo;Lugares históricos;475;69
+Parque del Oeste;Parques;466;51
+Biblioteca Nacional de España;Bibliotecas;425;62
+Auditorio Nacional de Música;Parques nacionales;413;16
+Faro de Moncloa;Puntos emblemáticos y de interés;406;95
+Plaza Colón;Puntos emblemáticos y de interés;399;123
+Museo del Ferrocarril de Madrid;Museos especializados;382;89
+Museo de la Real Academia de Bellas Artes de San Fernando;Museos de arte;381;36
+Micropolix;Parques temáticos;378;224
+San Jerónimo el Real;Lugares históricos;377;86
+Monumento a Cervantes;Monumentos y estatuas;375;83
+Puerta de Toledo;Monumentos y estatuas;348;118
+IFEMA - Feria de Madrid;null;343;190
+Museo de America;Museos de historia;341;91
+Paseo de la Castellana;Paseos por zonas históricas;337;80
+Primark;Grandes almacenes;329;84
+Parque Juan Carlos I;Parques;320;58
+Palacio Real de El Pardo;Lugares históricos;318;67
+Safari de Madrid;Parajes naturales;314;102
+Teatro Español;Teatros;293;32
+Museo del Aire;Museos militares;293;40
+Estación de Chamartín;Edificios con valor arquitectónico;279;244
+Centro Comercial Príncipe Pío;Centros comerciales;272;103
+Teatro La Latina;Teatros;265;177
+Monumento a Alfonso XII;Monumentos y estatuas;263;46
+Teatro Calderón;Ópera;258;121
+Plenilunio;Centros comerciales;257;138
+Barrio de Las Letras;Barrios;256;18
+Mercado de Antón Martín;Mercadillos;253;49
+Museo de Historia de Madrid;Museos de historia;253;79
+Wanda Metropolitano;Campos deportivos;249;60
+Espacio Fundación Telefónica;Museos especializados;240;48
+Teatro Coliseum;Teatros;238;158
+Casita Museo de Ratón Pérez;Museos especializados;237;142
+Puerta de Europa - Torres KIO;Puntos emblemáticos y de interés;236;130
+Monumento al Ángel Caído;Monumentos y estatuas;225;92
+Cripta de la Almudena;Puntos emblemáticos y de interés;217;68
+Museo del Traje;Museos especializados;215;96
+El Corte Ingles;Centros comerciales;215;261
+Jardines del Campo del Moro;Jardines;210;77
+Plaza Lavapiés;Puntos emblemáticos y de interés;205;165
+Centro de Exposiciones Arte Canal;Galerías de arte;204;72
+Mercado San Fernando;Mercadillos;192;63
+Banco de España;Edificios con valor arquitectónico;189;98
+Calle Mayor;Puntos emblemáticos y de interés;187;85
+Centro Comercial La Vaguada;Centros comerciales;182;113
+Anden 0;Museos especializados;181;73
+Teatro Nuevo Apolo;Teatros;178;293
+Parque Lineal Del Manzanares;Parques;174;29
+La Duquesita;Otra comida y bebida;172;147
+Parque La Quinta de los Molinos;Parques;170;42
+Casa de la Panaderia;Edificios con valor arquitectónico;169;43
+Cerro del Tío Pío;Parques;168;54
+Museo de la Catedral de la Almudena;Museos de historia;161;52
+San Sebastian de los Reyes The Style Outlets;Centros comerciales;155;133
+Mercado de La Paz;Mercadillos;155;56
+Calle de Alcalá;Puntos emblemáticos y de interés;154;61
+Museo Geominero;Museos especializados;145;31
+Casino Gran Vía;Casinos;145;170
+Plaza de Isabel II;Puntos emblemáticos y de interés;145;137
+Teatro Príncipe Gran Vía;Teatros;145;302
+Monumento a Felipe IV;Monumentos y estatuas;144;104
+Villa-Rosa;Puntos emblemáticos y de interés;139;107
+Monasterio de la Encarnación;Lugares sagrados y religiosos;136;164
+Congreso de los Diputados;Puntos emblemáticos y de interés;136;111
+Palacio de Linares;Castillos;136;97
+Museo Nacional de Antropología;Museos especializados;134;145
+Centro Comercial La Gavia;Centros comerciales;134;152
+Jardines de la Rosaleda;Jardines;131;34
+Palacio de Velázquez;Puntos emblemáticos y de interés;131;200
+Iglesia de San Manuel y San Benito;Lugares sagrados y religiosos;130;94
+Edificio Telefónica;Puntos emblemáticos y de interés;130;115
+Plaza de Castilla;Puntos emblemáticos y de interés;127;189
+Museo Nacional de Artes Decorativas;Museos especializados;126;146
+Palacio de los Deportes;Complejos deportivos;126;140
+Teatro Maravillas;Teatros;125;163
+Estación de RENFE de Sol;Puntos emblemáticos y de interés;125;191
+Casa de América;Galerías de arte;123;90
+Monumento a Cristóbal Colón;Monumentos y estatuas;122;135
+Iglesia de San Ginés;Lugares sagrados y religiosos;121;109
+Palacio de Gaviria;Puntos emblemáticos y de interés;118;44
+Teatro de la Zarzuela;Teatros;117;112
+Centro Comercial Islazul;Centros comerciales;116;278
+Planetario;Observatorios y planetarios;111;453
+Calle Princesa;Puntos emblemáticos y de interés;111;148
+La Central de Callao;Bibliotecas;108;321
+Hipódromo de la Zarzuela;Teatros;105;265
+Plaza del Dos de Mayo;Puntos emblemáticos y de interés;104;154
+Estación de Príncipe Pío;Edificios con valor arquitectónico;103;181
+Felipe III Statue;Monumentos y estatuas;103;149
+Iglesia de San Isidro;Iglesias y catedrales;103;116
+Estatua ecuestre de Carlos III;Puntos emblemáticos y de interés;100;159
+Iglesia de San Antonio de los Alemanes;Iglesias y catedrales;98;47
+Plaza Tirso de Molina;Puntos emblemáticos y de interés;98;269
+Museo San Isidro de los Orígenes;Museos de historia;97;124
+Escenario Puerta del Angel;Centros cívicos;93;766
+Puente de Segovia;Puntos emblemáticos y de interés;93;114
+Monumento homenaje a las víctimas del 11-M;Lugares históricos;92;421
+Teatro infanta Isabel;Teatros;92;260
+Cuatro Torres Business Area;Puntos emblemáticos y de interés;90;122
+Jardín del Príncipe de Anglona;Jardines;88;143
+Basílica de San Miguel;Lugares sagrados y religiosos;87;126
+Calle de las Huertas;Puntos emblemáticos y de interés;86;139
+Teatro Alcázar;Teatros;85;230
+Teatro Amaya;Teatros;83;272
+Museo Taurino;Museos especializados;83;232
+Arco de la Victoria;Monumentos y estatuas;83;342
+Iglesia castrense de Madrid;Iglesias y catedrales;82;131
+Teatro Reina Victoria;Teatros;81;268
+Pantheon Goya;Puntos emblemáticos y de interés;81;81
+La Tabacalera de Lavapiés;Puntos emblemáticos y de interés;80;119
+Plaza de la Independencia;Puntos emblemáticos y de interés;78;128
+Cuartel del Conde Duque;Puntos emblemáticos y de interés;77;236
+La Real Armería de Madrid;Museos militares;74;117
+Muralla Árabe;Lugares históricos;73;328
+Museo Atlético de Madrid;Museos especializados;73;291
+Plaza de Cánovas del Castillo;Puntos emblemáticos y de interés;72;172
+Estacion de Chamberi;Lugares históricos;71;110
+Monumento a los Caidos por España;Monumentos y estatuas;70;180
+Teatros Luchana;Teatros;68;168
+Estación de RENFE de Nuevos Ministerios;Puntos emblemáticos y de interés;68;267
+Parroquia Jesús de Medinaceli;Iglesias y catedrales;66;161
+Iglesia de San Antón;Lugares sagrados y religiosos;64;198
+Iglesia de Santa Bárbara (Salesas Reales);Lugares sagrados y religiosos;64;134
+Teatro Alfil;Teatros;63;225
+ABC Serrano;Centros comerciales;63;566
+Plaza de la Cebada;Puntos emblemáticos y de interés;63;301
+Panteón de Hombres Ilustres;Monumentos y estatuas;61;175
+Museo Casa de la Moneda;Museos especializados;61;120
+Teatro Marquina;Teatros;61;185
+Calle de Fuencarral;Puntos emblemáticos y de interés;61;127
+Museo ABC de Dibujo e Ilustración;Museos especializados;60;187
+Iglesia de San José;Iglesias y catedrales;59;169
+Casa Arabe;Puntos emblemáticos y de interés;57;436
+Estatua de Juan Pablo II;Puntos emblemáticos y de interés;57;305
+Mercado Barceló;Mercados de agricultores;56;423
+Iglesia de San Andrés;Lugares sagrados y religiosos;55;162
+Plaza del Ángel;Puntos emblemáticos y de interés;55;176
+Teatro Figaro;Teatros;55;237
+Centro Cultural de la Villa;Teatros;54;151
+Madrid Arena;Campos y estadios;54;745
+Torre de Madrid;Puntos emblemáticos y de interés;53;247
+Teatro Victoria;Teatros;53;141
+Iglesia de Nuestra Señora de la Concepción;Lugares sagrados y religiosos;53;144
+Plaza de las Cortes;Puntos emblemáticos y de interés;52;311
+Teatro Fernán Gómez;Teatros;52;255
+Iglesia de Santa Cruz;Iglesias y catedrales;52;217
+Reloj de la Comunidad de Madrid;Puntos emblemáticos y de interés;51;306
+Plaza de Canalejas;Puntos emblemáticos y de interés;51;249
+Plaza del Carmen;Puntos emblemáticos y de interés;51;388
+Puerta del Ángel;Puntos emblemáticos y de interés;51;264
+Museo de la Biblioteca Nacional;Museos especializados;51;204
+Edificio Grassy;Puntos emblemáticos y de interés;51;156
+El Viaducto;Puntos emblemáticos y de interés;50;333
+Iglesia de Las Calatravas;Lugares sagrados y religiosos;49;193
+Calle de la Montera;Puntos emblemáticos y de interés;49;521
+Monumento a Goya;Monumentos y estatuas;49;205
+El Corte Inglés;Grandes almacenes;48;211
+Glorieta del Emperador Carlos V;Puntos emblemáticos y de interés;47;332
+Fuente de la Alcachofa;Puntos emblemáticos y de interés;47;365
+Jardín de Serrano;Centros comerciales;46;324
+Estatua de Apolo;Puntos emblemáticos y de interés;46;192
+La estatua de Velázquez;Monumentos y estatuas;46;155
+Renfe;Sistemas de transporte público;45;459
+Monumento to Álvaro de Bazán;Monumentos y estatuas;45;194
+The Robot Museum;Museos para niños;45;243
+La rana de la suerte;Puntos emblemáticos y de interés;45;300
+Edificio Plus Ultra;Puntos emblemáticos y de interés;44;209
+Iglesia parroquial de San Ginés;Puntos emblemáticos y de interés;44;183
+Edificio Carrion;Puntos emblemáticos y de interés;44;222
+Plaza de Cascorro;Puntos emblemáticos y de interés;43;242
+Iglesia de Nuestra Señora del Carmen y San Luis;Iglesias y catedrales;43;214
+Ballet Flamenco de Madrid;Ballet;42;157
+Real Casa de Correos;Edificios con valor arquitectónico;42;196
+Teatro de la Comedia;Teatros;42;173
+Carrera de San Jerónimo;Puntos emblemáticos y de interés;42;213
+Jardines del Descubrimiento;Puntos emblemáticos y de interés;41;323
+Plaza de las Descalzas;Puntos emblemáticos y de interés;41;371
+Cine Renoir Plaza de España;Teatros;41;279
+Monumento al Cabo Noval;Monumentos y estatuas;41;270
+Cine Palacio de la Prensa;Teatros;40;648
+Palacio Longoria;Puntos emblemáticos y de interés;40;178
+Capilla del Obispo;Lugares sagrados y religiosos;39;153
+Puente De Arganzuela;Puntos emblemáticos y de interés;39;231
+Torre Picasso;Edificios con valor arquitectónico;39;240
+Plaza de la Paja;Puntos emblemáticos y de interés;39;186
+Parque Felipe VI;Parques;39;241
+Cibeles Lounge;Salas VIP de aeropuerto;38;518
+Iberia Dalí VIP Lounge;Salas VIP de aeropuerto;38;618
+Cine Princesa;Teatros;38;685
+Plaza de Jacinto Benavente;Puntos emblemáticos y de interés;37;548
+Palacio del Senado;Puntos emblemáticos y de interés;37;229
+Paseo de la Florida;Puntos emblemáticos y de interés;37;519
+El Pavon Teatro Kamikaze;Teatros;37;233
+Iglesia de San Pedro El Viejo;Iglesias y catedrales;37;251
+Plaza de Chueca;Puntos emblemáticos y de interés;37;245
+C.C. Príncipe Pío;Centros comerciales;37;195
+Edificio España;Edificios con valor arquitectónico;37;385
+Mujer con Espejo - De Fernando Botero;Monumentos y estatuas;37;215
+Francisco de Goya Statue;Monumentos y estatuas;36;184
+Museo de Historia;Museos especializados;36;248
+La Tienda de la Cerveza;Otra comida y bebida;36;136
+Casa Cisneros;Puntos emblemáticos y de interés;36;203
+Paseo de Recoletos;Puntos emblemáticos y de interés;35;171
+Campo de Fútbol de Vallecas;Campos y estadios;35;150
+Glorieta de San Vicente;Puntos emblemáticos y de interés;35;331
+Wizink Center;Teatros;34;221
+Parroquia de Santa Teresa y San José Madrid;Edificios con valor arquitectónico;34;208
+Mercadona;Centros comerciales;34;496
+Plaza de San Martín;Puntos emblemáticos y de interés;33;344
+Teatro Arlequín Gran Vía;Teatros;33;188
+Monumento a Victoria Eugenia y Alfonso XIII;Monumentos y estatuas;33;263
+Plaza de Santo Domingo;Puntos emblemáticos y de interés;33;330
+Estatua de Lope de Vega;Monumentos y estatuas;33;297
+Palacio de Santa Cruz;Edificios con valor arquitectónico;32;201
+Teatro de La Abadía;Teatros;32;160
+CSI MadRoom;;32;373
+Pinkleton & Wine;Bodegas y viñedos;31;219
+Convento de las Trinitarias Descalzas de San Ildefonso;Lugares sagrados y religiosos;31;235
+Fernando Alonso Collection;Puntos emblemáticos y de interés;31;283
+Mercado Vallehermoso;Mercados de agricultores;31;167
+Monasterio Del Corpus Christi;Puntos emblemáticos y de interés;31;216
+El Burdel a escena;Puntos emblemáticos y de interés;31;303
+Iglesia de San Nicolás de los Servitas;Edificios con valor arquitectónico;31;284
+Monument Glorieta de Emilio Castelar;Monumentos y estatuas;30;322
+Federico García Lorca Statue;Monumentos y estatuas;30;228
+Ateneo de Madrid;Puntos emblemáticos y de interés;30;238
+Plaza de los Carros;Puntos emblemáticos y de interés;29;341
+Calle de los Libreros;Puntos emblemáticos y de interés;29;384
+Parque Dehesa de la Villa;Parques;29;182
+Museo del Ejército;Museos militares;28;485
+Piscina de Verano de la Universidad Complutense;Complejos deportivos;28;352
+Plaza de Pontejos;Puntos emblemáticos y de interés;28;539
+Plaza de San Ildefonso;Puntos emblemáticos y de interés;28;295
+Plaza De Armas;Edificios con valor arquitectónico;28;277
+Sala de exposiciones Centro Centro;Puntos emblemáticos y de interés;27;315
+Parroquia Virgen de la Paloma;Lugares sagrados y religiosos;27;281
+Calle de Hortaleza;Lugares históricos;27;282
+Iglesia parroquial de San Millán y San Cayetano.;Iglesias y catedrales;27;220
+Real Oratorio Del Caballero de Gracia;Lugares sagrados y religiosos;27;239
+Museum of Contemporary Art Conde Duque;Museos especializados;27;257
+Fundación Museo Infante de Orleans;Museos especializados;26;197
+Plaza Rio 2;Centros comerciales;26;246
+Cuartel General del Ejercito del Aire;Puntos emblemáticos y de interés;26;285
+Castillo de la Alameda;Ruinas antiguas;26;287
+Monumento a Calvo Sotelo;Monumentos y estatuas;26;646
+Bolsa de Madrid;Puntos emblemáticos y de interés;26;346
+Real Basílica de Nuestra Señora de Atocha;Iglesias y catedrales;26;312
+Casa y Torre de los Lujanes;Puntos emblemáticos y de interés;26;258
+Real Iglesia Parroquial de Santiago y San Juan Bautista;Iglesias y catedrales;25;259
+Torres Blancas;Puntos emblemáticos y de interés;25;334
+Jardines de Las Vistillas;Jardines;25;356
+Monumento a Lope de Vega;Monumentos y estatuas;25;449
+Moda Shopping;Centros comerciales;25;721
+Mercado de Monedas y Sellos;Mercadillos;25;366
+Fuente de los Galápagos;Puntos emblemáticos y de interés;25;439
+Corte Ingles;Grandes almacenes;25;308
+Museo Tiflológico;Museos especializados;25;212
+Residencia de Estudiantes;Puntos emblemáticos y de interés;24;294
+Glorieta de Quevedo;Puntos emblemáticos y de interés;24;424
+Teatro Galileo;Teatros;24;354
+Estación del Norte;Lugares históricos;24;355
+Plaza Dr. Mariano de Cavia;Puntos emblemáticos y de interés;24;500
+Quinta Fuente del Berro;Jardines;24;210
+Cine Acteón;Teatros;23;768
+Cuartel general de la Armada;Edificios con valor arquitectónico;23;299
+Teatro María Guerrero;Teatros;23;223
+Plaza de Cuzco;Puntos emblemáticos y de interés;23;687
+Cementerio de Nuestra Señora de la Almudena;Cementerios;23;432
+Parque de Berlín;Jardines;23;218
+La Venus Espejo;Monumentos y estatuas;23;454
+Centro Comercial Castellana 200;Centros comerciales;23;736
+Centro de Artes de Vanguardia la Neomudéjar;Puntos emblemáticos y de interés;22;280
+Palacio de Cristal de la Arganzuela;Edificios con valor arquitectónico;22;206
+La Mariblanca;Puntos emblemáticos y de interés;22;360
+Edificio la Adriatica;Puntos emblemáticos y de interés;22;319
+Plaza del Rey;Puntos emblemáticos y de interés;22;401
+Iglesia de San Sebastian;Iglesias y catedrales;22;290
+Palacio del Marqués de Salamanca;Puntos emblemáticos y de interés;22;317
+Glorieta de Cuatro Caminos;Puntos emblemáticos y de interés;21;708
+Plaza de Ramales;Puntos emblemáticos y de interés;21;379
+Torre Cristal;Puntos emblemáticos y de interés;21;370
+Diseno Propio. Artesanía.;Galerías de arte;21;226
+Barrio del Pilar;Puntos emblemáticos y de interés;21;556
+Palacio de Fomento;Edificios gubernamentales;21;262
+Museo de Arte Público;Museos especializados;21;437
+Puente de la Reina Victoria;Puntos emblemáticos y de interés;21;389
+Teatro de Madrid;Teatros;21;288
+Dalieda de San Francisco;Puntos emblemáticos y de interés;21;712
+Observatorio Astronómico de Madrid;Observatorios y planetarios;21;327
+Parque Nacional de la Sierra de Guadarrama;Parajes naturales;20;202
+Dolmen de Dalí;Monumentos y estatuas;20;381
+Cines Renoir Retiro;Puntos emblemáticos y de interés;20;480
+Calle de Leon;Paseos panorámicos;20;362
+Ciudad BBVA;Puntos emblemáticos y de interés;20;310
+Casa de Allende;Puntos emblemáticos y de interés;20;274
+Estanque Grande del Retiro;Masas de agua;20;207
+Statue of Eloy Gonzalo;Monumentos y estatuas;20;390
+Edificio Meneses;Puntos emblemáticos y de interés;20;275
+Calle Preciados;Puntos emblemáticos y de interés;20;438
+Exposición Pintores Plaza Conde Barajas;Mercadillos;20;179
+Plaza de Santa Maria Soledad;Puntos emblemáticos y de interés;20;498
+Parroquia de San Fermín de los Navarros;Iglesias y catedrales;20;430
+Parque Norte;Puntos emblemáticos y de interés;19;359
+Puente del Rey;Puntos emblemáticos y de interés;19;409
+Edificio Gran Vía 32;Edificios con valor arquitectónico;19;442
+Pedro Calderón de la Barca Statue;Monumentos y estatuas;19;337
+Iglesia de San Ildefonso;Lugares sagrados y religiosos;19;542
+Museo ABC;Museos especializados;19;347
+Gran Teatro Bankia Príncipe Pío;Teatros;19;289
+Jardines de la Virgen del Puerto;Jardines;19;473
+Ministerio de Justicia;Puntos emblemáticos y de interés;19;572
+Calle del Mesón de Paredes;Puntos emblemáticos y de interés;19;444
+Cava Alta;Puntos emblemáticos y de interés;19;543
+Casita del Príncipe;Puntos emblemáticos y de interés;18;307
+Bingo Roma;Casinos;18;488
+Teatro de las Aguas;Teatros;18;227
+Museo de Modelismo Naval;Museos especializados;18;250
+Museo Andén Cero;Museos especializados;18;313
+Calle de Santa Isabel;Lugares históricos;18;503
+Plaza de San Juan de la Cruz;Puntos emblemáticos y de interés;18;564
+Plaza de Celenque;Puntos emblemáticos y de interés;18;644
+Edificio del Círculo de Union Mercantil;Edificios con valor arquitectónico;18;335
+Mercado Municipal De Villa De Vallecas;Mercados de agricultores;18;271
+Plaza de la Cruz Verde;Puntos emblemáticos y de interés;17;515
+Plaza del Doctor Marañón;Puntos emblemáticos y de interés;17;538
+Parque Forestal de Valdebernardo;Parques;17;326
+Tribunal de Cuentas;Puntos emblemáticos y de interés;17;441
+Museo de la Guardia Civil;Museos de historia;17;273
+Teatro de Títeres;Teatros;17;429
+Glorieta de San Antonio;Puntos emblemáticos y de interés;17;363
+Plaza Red de San Luis;Puntos emblemáticos y de interés;17;502
+Centro Cultural Casa de Vacas;null;16;338
+Edificio de la Real Compañía Asturiana de Minas;Puntos emblemáticos y de interés;16;361
+Calle Raimundo Fernández Villaverde;Puntos emblemáticos y de interés;16;541
+Oratorio del Santo Niño del Remedio;Puntos emblemáticos y de interés;16;408
+Teatro Guindalera;Teatros;16;292
+Arco de Cuchilleros;Puntos emblemáticos y de interés;16;386
+Ermita de la Virgen del Puerto;Puntos emblemáticos y de interés;16;391
+Real Casa de Postas;Puntos emblemáticos y de interés;16;445
+Fuente de la Concha;Puntos emblemáticos y de interés;16;406
+Arte en Mente S.C.;Puntos emblemáticos y de interés;16;254
+Banco Hispano- Americano;Puntos emblemáticos y de interés;16;501
+Edificio de La Equitativa;Puntos emblemáticos y de interés;16;343
+El Mirador;Puntos emblemáticos y de interés;16;748
+Sala Alcalá 31;Museos de arte;15;340
+Centro de Turismo Plaza Mayor;Centros de visitantes;15;369
+Casa de las Siete Chimeneas;Puntos emblemáticos y de interés;15;387
+Cristo de El Pardo;Puntos emblemáticos y de interés;15;298
+Ciudad Universitaria de Madrid;Puntos emblemáticos y de interés;15;378
+Plaza Del Humilladero;Puntos emblemáticos y de interés;15;393
+La Real Botica de la Reina Madre;Museos especializados;15;483
+Nómada Market;Mercadillos;15;383
+Bingo Canoe;Casinos;15;433
+Torre Europa Madrid;Edificios con valor arquitectónico;15;419
+Plaza de la Marina Espanola;Puntos emblemáticos y de interés;15;467
+Pabellón de los Jardines de Cecilio Rodríguez;Jardines;15;286
+Plaza de Las Comendadoras;Puntos emblemáticos y de interés;15;403
+Nudo Norte Madrid;Puntos emblemáticos y de interés;15;765
+?????????????????Madrid-?Puerta de Atocha Train Station;Puntos emblemáticos y de interés;14;296
+Parroquia de los Sagrados Corazones;Lugares sagrados y religiosos;14;376
+Parque Juan Pablo II;Parques;14;345
+Edificio de la Compañía Colonial;Puntos emblemáticos y de interés;14;353
+Rio Creative Art Center;Galerías de arte;14;234
+Real Monasterio de Santa Isabel;Lugares sagrados y religiosos;14;377
+Palacio de Fernán Núñez;Puntos emblemáticos y de interés;14;350
+Iglesia de la Buena Dicha;Iglesias y catedrales;14;349
+Bodega y Enoteca Qubel;Otra comida y bebida;14;256
+Chueca;Barrios;14;357
+Teatro Gymage;Teatros;14;380
+Plazuela Del Matute;Puntos emblemáticos y de interés;14;469
+Avenida de la Ilustración;Puntos emblemáticos y de interés;14;597
+Casa Gallardo;Edificios con valor arquitectónico;13;372
+La Pension de las Pulgas;Teatros;13;320
+Real Casa de la Aduana;Puntos emblemáticos y de interés;13;628
+El Esconditeatro;Teatros;13;252
+Teatro Monumental;Teatros;13;368
+Fundación Caja Madrid;Museos especializados;13;407
+Imprenta Municipal;Museos de arte;13;325
+Parroquia de San Marcos;Lugares sagrados y religiosos;13;336
+Palacio de Liria;Lugares históricos;13;266
+Instituto Cervantes;Edificios con valor arquitectónico;13;304
+Plaza Mayor;Puntos emblemáticos y de interés;12;316
+Edificio Catalana de Occidente;Puntos emblemáticos y de interés;12;722
+Teseo Teatro;Teatros;12;276
+Puente de Castilla;Puntos emblemáticos y de interés;12;743
+Cine Palacio de la Música;Teatros;12;561
+Colonial Norte;Teatros;12;734
+Casa Del Parroco;Puntos emblemáticos y de interés;12;481
+Templete del Retiro;Teatros;12;414
+Plaza Plateria de Martinez;Puntos emblemáticos y de interés;12;622
+Museo de la Escultura Abstracta;Museos especializados;12;596
+El Corte Ingles;Centros comerciales;12;402
+Plaza de la Madre María Molas;Puntos emblemáticos y de interés;12;747
+Casa Matesanz;Puntos emblemáticos y de interés;12;494
+Plaza Del Cordon;Puntos emblemáticos y de interés;12;470
+Centro Deportivo Municipal Tenis Casa de Campo;Campamentos deportivos;12;309
+Centro Comercial Arenal;Centros comerciales;12;527
+Parque de Las Cruces;Puntos emblemáticos y de interés;12;688
+Puerta España;Puntos emblemáticos y de interés;12;422
+Monasterio de Benedictinas de San Plácido;Puntos emblemáticos y de interés;11;364
+Casa de la Villa;Lugares históricos;11;318
+Iglesia de San Pascual;Iglesias y catedrales;11;529
+Cementerio de La Florida;Puntos emblemáticos y de interés;11;523
+Parque infantil Gorongoro;Campos deportivos;11;650
+Jardines de Pablo Sorozabal;Jardines;11;549
+Calle de Bailén;Puntos emblemáticos y de interés;11;351
+Museo Taurino;Museos de historia;11;427
+Centro Cultural La Corrala;Museos especializados;11;461
+Sala Canal de Isabel II;Galerías de arte;11;426
+Puente de los Franceses;Puntos emblemáticos y de interés;11;491
+Humbraculo;Jardines;11;431
+Fundación ICO;Museos especializados;11;394
+Casón del Buen Retiro;Museos de historia;10;358
+Cementerio de San Isidro;Cementerios;10;531
+Fuente de Orfeo;Fuentes;10;487
+Parque de Caramuel;Puntos emblemáticos y de interés;10;678
+Glorieta de Bilbao;Puntos emblemáticos y de interés;10;552
+Parque Eugenia de Montijo;Puntos emblemáticos y de interés;10;574
+Noria de la Real Fábrica de Porcelana del Buen Retiro;Monumentos y estatuas;10;718
+Simply Rickshaw;Tiendas de antigüedades;10;314
+Presa del Manzanares;Puntos emblemáticos y de interés;10;749
+Torrespaña;Puntos emblemáticos y de interés;10;725
+Estadio de la Peineta;Campos deportivos;10;720
+Antiguo Hospicio;Puntos emblemáticos y de interés;10;367
+Convento de las Comendadoras de Santiago;Lugares sagrados y religiosos;9;413
+Real Academia Nacional de Medicina;Puntos emblemáticos y de interés;9;416
+Calderon de la Barca;Puntos emblemáticos y de interés;9;462
+Monumento a los Abogados de Atocha;Puntos emblemáticos y de interés;9;740
+La Ciudad del Fútbol;Complejos deportivos;9;396
+Parroquia del Buen Suceso;Lugares sagrados y religiosos;9;563
+Nave de Motores de Pacifico;Museos especializados;9;348
+Nuestra Señora de las Delicias;Puntos emblemáticos y de interés;9;694
+Palacio de Amboage;Puntos emblemáticos y de interés;9;425
+Arganzuela Footbridge;Puentes;9;329
+Iglesia del Corpus Cristi Madrid;Iglesias y catedrales;9;479
+Cárcel de la Inquisición;Lugares históricos;9;684
+Iglesia de San Juan de la Cruz;Iglesias y catedrales;9;741
+Cine Luna;Teatros;9;758
+Swinton and Grant;Galerías de arte;9;458
+Convento de las Madres Carmelitas Descalzas;Lugares sagrados y religiosos;9;457
+Puerto de Navacerrada – Estacion de Esqui;Esquí y snowboard;9;339
+Monumento al Descubrimiento de América;Monumentos y estatuas;9;697
+Teatro Arenal;Teatros;9;443
+Lago Casa de Campo;Masas de agua;9;397
+Monumento a la Constitución de 1978;Monumentos y estatuas;9;589
+Museo Africano Mundo Negro;Museos especializados;9;404
+Museo Municipal de Bomberos;Museos especializados;8;499
+Colonia de la Prensa;Puntos emblemáticos y de interés;8;477
+Parroquia de Santa Cristina;Puntos emblemáticos y de interés;8;450
+Fundacion Giner de los Rios;Museos para niños;8;405
+Monumento a la Reina Isabel I la Católica;Monumentos y estatuas;8;398
+Teatro Quevedo;Teatros;8;428
+Iglesia de Nuestra Señora Del Pilar;Iglesias y catedrales;8;692
+Palacio Bermejillo;Puntos emblemáticos y de interés;8;434
+Parque Emperatriz Maria de Austria;Puntos emblemáticos y de interés;8;412
+Anillo Verde Ciclista de Madrid;Rutas ciclistas;8;625
+Plaza del Marqués de Salamanca;Puntos emblemáticos y de interés;8;707
+Calle Cavanilles;Puntos emblemáticos y de interés;8;717
+Parroquia de San Francisco de Sales;Iglesias y catedrales;8;595
+Café Pombo;Galerías de arte;7;739
+Real Academia Española;Bibliotecas;7;474
+Puerta de Felipe IV;Puntos emblemáticos y de interés;7;508
+Salón de Reinos del Palacio del Buen Retiro;Edificios con valor arquitectónico;7;420
+Monumento a la Infanta Isabel Borbon;Monumentos y estatuas;7;576
+Plaza de Lima;Puntos emblemáticos y de interés;7;626
+Cámara Oficial de Comercio, Industria y Servicios de Madrid;Puntos emblemáticos y de interés;7;452
+Casino Gran Madrid Colón;Casinos;7;464
+Casa de la Carniceria;Edificios con valor arquitectónico;7;573
+Club Hípico Montecarmelo;Otros ranchos y granjas;7;767
+Sculpture of Fingers;Puntos emblemáticos y de interés;7;447
+Edificio Los Cubos;Puntos emblemáticos y de interés;7;631
+Edificio Ibm;Puntos emblemáticos y de interés;7;643
+Palacio Buenavista;Edificios con valor arquitectónico;7;463
+Mezquita de Madrid;Lugares sagrados y religiosos;7;557
+Parroquia de San Juan de Mirasierra;Lugares sagrados y religiosos;7;686
+Plaza de Felipe II;Puntos emblemáticos y de interés;7;504
+Bingo Royal Odonnell;Casinos;7;544
+Parque de Tierno Galvan;Parques;7;679
+Humilladero Nuestra Señora de la Soledad;Lugares sagrados y religiosos;7;675
+Plaza de Santa Barbara;Puntos emblemáticos y de interés;7;493
+Iglesia de San Antonio de Cuatro Caminos;Iglesias y catedrales;7;569
+Fuente de Juan de Villanueva;Fuentes;7;418
+Madrid Orgullo;Eventos culturales;7;400
+Casa Ruiz de Velasco;Puntos emblemáticos y de interés;6;478
+Capilla Cachito de Cielo;Lugares sagrados y religiosos;6;465
+Iglesia Santa Monica;Iglesias y catedrales;6;710
+Fuente de la Fama;Fuentes;6;395
+Edificio del Banco de Bilbao;Edificios con valor arquitectónico;6;604
+Palacio de Comunicaciones;Edificios con valor arquitectónico;6;537
+Estacion de Paco de Lucia;Puntos emblemáticos y de interés;6;588
+Golden Mile Museums;Museos de arte;6;411
+Glorieta Embajadores;Parques;6;653
+La Gloria y los Pegasos;Monumentos y estatuas;6;417
+Iglesia de San Pedro ad Víncula;Iglesias y catedrales;6;375
+Madness dulces;Otra comida y bebida;6;448
+Teatro Sanpol;Teatros;6;592
+Colegio de Nuestra Senora de Loreto;Puntos emblemáticos y de interés;6;728
+El Huerto de Las Monjas;Jardines;6;633
+Parroquia de Santa María del Consuelo Madrid;Puntos emblemáticos y de interés;6;466
+Parroquia de Santa María del Val;Puntos emblemáticos y de interés;6;693
+Parroquia de San Fernando;Puntos emblemáticos y de interés;6;580
+Parroquia de Nuestra Senora de Guadalupe;Iglesias y catedrales;6;585
+Sala Triángulo;Teatros;6;716
+Museo Nacional de Ciencia y Tecnología;Museos especializados;6;676
+Parroquia de Nuestra Señora de Madrid;Puntos emblemáticos y de interés;6;613
+Edificio Castelar;Edificios con valor arquitectónico;6;671
+Homenaje a la Mujer;Monumentos y estatuas;6;719
+Companyvino Gourmet;Otra comida y bebida;6;399
+Parroquia de los Doce Apostoles.;Lugares sagrados y religiosos;6;510
+La Mano de Botero;Monumentos y estatuas;6;619
+Calle Valderribas;Puntos emblemáticos y de interés;6;664
+Paseo del Pintor Rosales;Puntos emblemáticos y de interés;6;468
+Vintalogy;Tiendas de antigüedades;5;495
+Hospital de Maudes;Edificios con valor arquitectónico;5;460
+Plaza Guardias de Corps;Puntos emblemáticos y de interés;5;528
+Parroquia de San Juan de Ribera;Puntos emblemáticos y de interés;5;555
+Estatua de Espartero;Monumentos y estatuas;5;455
+Monumento Abogados Atocha;Monumentos y estatuas;5;735
+Plaza de la Villa de Paris;Puntos emblemáticos y de interés;5;553
+Iglesia parroquial de Nuestra Señora de la Guía;Iglesias y catedrales;5;663
+Palacio de Congresos de Madrid;Edificios con valor arquitectónico;5;598
+Casita del Labrador;Edificios con valor arquitectónico;5;507
+Sala Mirador;Teatros;5;632
+Renoir Retiro;Puntos emblemáticos y de interés;5;737
+Iglesia de San Francisco de Borja;Iglesias y catedrales;5;586
+Mercado de Las Ventas;Centros comerciales;5;435
+Iglesia Ortodoxa Rusa de Santa Maria Magdalena;Iglesias y catedrales;5;484
+Teatro Tribueñe;Teatros;5;410
+Homenaje Al Maestro;Monumentos y estatuas;5;617
+Mercadillo de Antigüedades;Tiendas de antigüedades;5;637
+Parroquia de Nuestra Señora de La Paz;Iglesias y catedrales;5;634
+Centro de Comercial El Jardin de Serrano;Centros comerciales;5;514
+Pabellón de Convenciones La Pipa Madrid;Puntos emblemáticos y de interés;5;750
+Palacio Vistalegre;Campos y estadios;5;726
+Compañía de Cervezas del Valle del Kahs;Fábricas de cerveza;5;440
+Monumento A La Violetera;Monumentos y estatuas;5;565
+Ivorypress;Museos especializados;5;456
+Pabellon de Cristal de la Casa de Campo;null;5;560
+Guilligans Irish Tavern;Otra comida y bebida;5;471
+Palacio Municipal de Congresos;null;5;533
+cines odeon;Puntos emblemáticos y de interés;5;492
+Ministerio de Sanidad;Edificios gubernamentales;5;751
+La Encina Teatro;Teatros;5;392
+Estatua De Murillo;Monumentos y estatuas;5;593
+Destination Madrid;Centros de visitantes;5;382
+Parroquia de San Dámaso;Puntos emblemáticos y de interés;4;756
+Real Academia de la Historia;Edificios con valor arquitectónico;4;545
+Monumento A Miguel Hidalgo;Monumentos y estatuas;4;704
+Monumento a Don Blas de Lezo y Olavarrieta;Paseos por zonas históricas;4;505
+Monumento a Cuba;Monumentos y estatuas;4;672
+Capilla de San Ildefonso;Edificios con valor arquitectónico;4;497
+Centro Cultural Nicolás Salmerón;Teatros;4;578
+Parroquia del Inmaculado Corazon de Maria;Iglesias y catedrales;4;683
+Palacio de Abrantes;Puntos emblemáticos y de interés;4;482
+Esta es una Plaza;Puntos emblemáticos y de interés;4;490
+Eugenio d'Ors y Su Monument Enigmatico;Monumentos y estatuas;4;532
+Museo del Instituto de San Isidro;Museos de historia;4;681
+Iglesia la Virgen Peregrina;Iglesias y catedrales;4;690
+Plaza de la Lealtad;Puntos emblemáticos y de interés;4;535
+Iglesia De La Inmaculada y San Pedro Claver;Iglesias y catedrales;4;614
+Fundación Manuel Benedito;Museos especializados;4;472
+Fundacion Casa de Alba;Museos especializados;4;723
+Mina Marcelo Jorissen;Museos especializados;4;639
+Monumento al Marques del Duero;Monumentos y estatuas;4;667
+La ley de Snell;Galerías de arte;4;415
+Galeria Marlborough;Galerías de arte;4;475
+Iglesia de las Religiosas de María Inmaculada;Iglesias y catedrales;4;526
+Basílica Hispanoamericana de Nuestra Seõra de la Merced;Puntos emblemáticos y de interés;4;530
+Parque de Eva Duarte;Otros parques y naturaleza;4;621
+Casa del Lector;Edificios con valor arquitectónico;4;645
+Universidad Central;Puntos emblemáticos y de interés;4;536
+Centro Sefarad Israel;Museos de historia;4;651
+Immanuel Baptist Church;Iglesias y catedrales;4;691
+Asociacion de Amigos del 4º Centenario de la Plaza Mayor;Edificios con valor arquitectónico;4;680
+Parroquia de San Miguel de Chamartín;Iglesias y catedrales;4;689
+Centro Municipal Pradillo;Complejos deportivos;4;731
+El Truco;Otra comida y bebida;4;744
+Parroquia de Santa Teresa y Santa Isabel;Edificios con valor arquitectónico;4;568
+Casa de Velazquez;Museos de historia;4;525
+Jardines del Arquitecto Herrero Palacios;Jardines;4;642
+Parroquia del Santísimo Redentor Madrid;Puntos emblemáticos y de interés;4;656
+Mezquita central de Abu Baker Assidiik;Lugares sagrados y religiosos;4;591
+Buho Real;Teatros;4;602
+Farmacia Deleuze Isasi;Puntos emblemáticos y de interés;4;476
+Basílica Parroquia La Milagrosa;Iglesias y catedrales;4;624
+Patronato de Enfermos;Edificios con valor arquitectónico;4;611
+Mármol Mapa de los viajes de Colón;Puntos emblemáticos y de interés;4;674
+Biblioteca Centro Pedro Salinas;Otras;4;559
+V de Vegas;Casinos;4;547
+Panteon de Hombres Ilustres;Monumentos y estatuas;4;623
+Parque Cuarto Depósito;Jardines;4;446
+Kilómetro Cero;Puntos emblemáticos y de interés;4;706
+Parque Emir Mohamed I;Jardines;4;579
+La Fresh Gallery;Galerías de arte;4;584
+Entrevias,madrid;Otra comida y bebida;4;755
+El Huerto del Retiro;Edificios gubernamentales;4;599
+Bingo Riojano;Casinos;3;540
+Convento de la Latina;Puntos emblemáticos y de interés;3;746
+Ermita de San Pelayo y San Isidoro;Iglesias y catedrales;3;657
+Calle De Martín De Los Heros;Puntos emblemáticos y de interés;3;594
+Instituto Homeopático y Hospital de San Jose;Puntos emblemáticos y de interés;3;677
+Parque de San Isidro;Parques;3;546
+La Toldería;Teatros;3;571
+Parroquia de Nuestra Señora de los Angeles;Iglesias y catedrales;3;647
+Cafeteando;Otra comida y bebida;3;486
+Agrupacion Deportiva Cultural de la Emt;Complejos deportivos;3;727
+Iglesia de San Sebastián Martir;Iglesias y catedrales;3;738
+Monumento al General Vara de Rey y los Héroes de Caney;Monumentos y estatuas;3;698
+Museo de Carruajes;Museos especializados;3;620
+Monasterio de Nuestra Señora de las Maravillas;Edificios con valor arquitectónico;3;665
+Instituto del Patrimonio Historico Espanol;Puntos emblemáticos y de interés;3;512
+Fabrica de Tabacos;Puntos emblemáticos y de interés;3;742
+Colegio Notarial;Puntos emblemáticos y de interés;3;658
+Galería Ignacio Redondo;Galerías de arte;3;520
+Lavapiés;Barrios;3;567
+Teatro Pradillo;Teatros;3;713
+Parroquia del Santisimo Sacramento;Iglesias y catedrales;3;670
+Real Conservatorio Superior de Música;Lugares históricos;3;730
+Parroquia de Nuestra Señora del Espino;Puntos emblemáticos y de interés;3;714
+Museo de Medios Acorazados;Museos militares;3;600
+Plaza De La Provincia;Puntos emblemáticos y de interés;3;660
+Jardines Del Arquitecto Ribera;Jardines;3;666
+Monastero reale dell'Incarnazione;Lugares históricos;3;489
+Medialab-Prado;Centros cívicos;3;659
+Centro Comercial Alcalá Norte;Centros comerciales;3;509
+Parroquia de San Francisco Javier;Iglesias y catedrales;3;711
+Nueve Norte;Teatros;3;451
+Vuelvete Loca;Cabarets;3;638
+Mercado de la Camara Agraria de la Comunidad de Madrid;Mercados de agricultores;3;506
+La Tienda de Francia;Centros de visitantes;2;603
+Archivo Histórico de Protocolos de Madrid;Bibliotecas;2;615
+Hospital de la Cruz Roja S. Jose y Sta. Adela;Puntos emblemáticos y de interés;2;640
+Alcion Art Gallery;Galerías de arte;2;590
+Galería Modus Operandi;Galerías de arte;2;516
+Librería Café La Fugitiva;Bibliotecas;2;662
+La Galeria de San Ildefonso;Centros comerciales;2;763
+Administración 199 La Cigüeña;Casinos;2;534
+UCM: Biblioteca Histórica Marqués de Valdecilla;Universidades y escuelas;2;577
+Teatro Estudio de Madrid;Teatros;2;551
+Herraiz Art Gallery;Galerías de arte;2;575
+Delimbo Gallery;Galerías de arte;2;554
+El Montacargas;Teatros;2;630
+Galería 6mas1;Galerías de arte;2;759
+Centro Deportivo Municipal La Almudena;Complejos deportivos;2;695
+Parque De La Montaña;Parques;2;609
+Museo de la Farmacia Hispana;Museos especializados;2;550
+Mercadillo de Santa Genoveva;Mercadillos;2;760
+Parque De Las Siete Tetas;Parques;2;511
+Parroquia de María Auxiliadora;Puntos emblemáticos y de interés;2;729
+Instituto Valencia de Don Juan;Puntos emblemáticos y de interés;2;696
+Sala Tarambana;Teatros;2;524
+Mondo Galeria;Galerías de arte;2;724
+Parroquia Arciprestal Basilica de Santa Maria;Iglesias y catedrales;2;709
+Espacio Labruc;Teatros;2;627
+Galería del Cisne;Galerías de arte;2;582
+Cine Lumière;Teatros;2;682
+Galería Edurne;Galerías de arte;2;583
+Bulevares (Los);Barrios;2;673
+Parroquia San Ramón Nonato.;Lugares históricos;2;732
+Cementerio Civil;Cementerios;2;558
+Galeria Duran;Galerías de arte;2;587
+Sabrina Amrani Gallery;Puntos emblemáticos y de interés;2;629
+Beebiker;Rutas para motos;2;513
+Farmacia Internacional de Madrid;Puntos emblemáticos y de interés;2;522
+Teatro de Cámara;Teatros;2;581
+Comunidad Israelita en Madrid;Lugares sagrados y religiosos;2;562
+Centro Cultural Antonio Machado;Centros cívicos;2;517
+Frutas selectas maruja;Otra comida y bebida;2;635
+Parque Peñuelas;Parques;2;705
+Parroquia de San Miguel de los Santos.;Lugares sagrados y religiosos;2;715
+Barrio de Pacífico;Puntos emblemáticos y de interés;2;570
+Suristán;Teatros;1;641
+Coleccion Banco Santander;Museos de arte;1;654
+Cumbre De La Maliciosa;Montañas;1;607
+Cementerio de Fuencarral;Cementerios;1;668
+Museo Del Tarot;Museos especializados;1;608
+Convento de Capuchinos;Puntos emblemáticos y de interés;1;636
+Centro Comercial Albufera Plaza;Centros comerciales;1;669
+Salón Internacional del Grabado y Ediciones de Arte Contemporáneo (Estampa);Galerías de arte;1;655
+Cementerio Britanico;Lugares históricos;1;700
+Polideportivo Antonio Magariños;Complejos deportivos;1;612
+Divertiland Park;Parques temáticos;1;649
+Parque Casino de la Reina;Parques;1;702
+Sala Berlanga;Teatros;1;701
+Museum of Mesonero Romanos;Museos especializados;1;754
+Museo de Farmacia Militar;Museos especializados;1;753
+Outlet Shop;Outlets;1;652
+S&B Joyas y Relojes;Tiendas de antigüedades;1;761
+Centro Deportivo Municipal Peñuelas;Complejos deportivos;1;605
+ContraClub;Teatros;1;606
+Parroquia de Nuestra Senora de Madrid;Puntos emblemáticos y de interés;1;752
+Ventana de la Cebada;Galerías de arte;1;616
+Santa Iglesia Catedral de los Santos Andrés y Demetrio;Lugares sagrados y religiosos;1;703
+Parque juan XXIII;Parques;1;757
+Parroquia Nuestra Senora de la Merced;Iglesias y catedrales;1;733
+Asociacion Cultural Torcal;Edificios con valor arquitectónico;1;699
+Bululú2120;Centros cívicos;1;610
+avenida mediterraneo, 33 28007 MADRID;Tiendas de antigüedades;1;601
+Sala de Arte Santander;Galerías de arte;1;771
+"Centro de Creación e Investigación Cultural ""La Tortuga""";Centros cívicos;1;661

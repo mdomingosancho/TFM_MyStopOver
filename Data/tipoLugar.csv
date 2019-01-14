@@ -1,0 +1,39 @@
+tipo;Frequency;Percent;Agrupacion;tiempoNecesario
+Acuarios;1;0,632911392;Entretenimiento;2,5
+Barrios;4;2,53164557;Monumentos y Edificios;0,5
+Bibliotecas;2;1,265822785;Museos;0,5
+Campos deportivos;1;0,632911392;Entretenimiento;1
+Campos y estadios;1;0,632911392;Entretenimiento;1
+Casinos;1;0,632911392;Entretenimiento;1
+Castillos;1;0,632911392;Monumentos y Edificios;1,5
+Centros comerciales;7;4,430379747;Compras;1
+Complejos deportivos;1;0,632911392;Entretenimiento;0,5
+Edificios con valor arquitectónico;13;8,227848101;Monumentos y Edificios;0,5
+Esquí y snowboard;1;0,632911392;Entretenimiento;2
+Fuentes;2;1,265822785;Monumentos y Edificios;0,25
+Galerías de arte;4;2,53164557;Museos;1
+Grandes almacenes;1;0,632911392;Compras;1
+Iglesias y catedrales;3;1,898734177;Iglesias;0,25
+Jardines;5;3,164556962;Parques;1,25
+Lugares históricos;6;3,797468354;Monumentos y Edificios;1
+Lugares sagrados y religiosos;5;3,164556962;Iglesias;0,25
+Mercadillos;6;3,797468354;Compras;0,75
+Mercados de agricultores;1;0,632911392;Compras;0,75
+Monumentos y estatuas;10;6,329113924;Monumentos y Edificios;0,25
+Museos de arte;5;3,164556962;Museos;2
+Museos de ciencias;1;0,632911392;Museos;1,5
+Museos de historia;5;3,164556962;Museos;1,25
+Museos especializados;13;8,227848101;Museos;2
+Museos militares;1;0,632911392;Museos;1
+null;2;1,265822785;;1
+Observatorios y planetarios;1;0,632911392;Entretenimiento;1,5
+Ópera;1;0,632911392;Entretenimiento;2
+Otra comida y bebida;1;0,632911392;;1
+Parajes naturales;2;1,265822785;Parques;2,5
+Parques;6;3,797468354;Parques;1
+Parques nacionales;1;0,632911392;Parques;0,5
+Parques temáticos;2;1,265822785;Entretenimiento;3
+Paseos por zonas históricas;2;1,265822785;Monumentos y Edificios;0,5
+Puntos emblemáticos y de interés;28;17,72151899;Puntos emblemáticos;0,25
+Teatros;10;6,329113924;Entretenimiento;2
+Tranvías;1;0,632911392;;1
