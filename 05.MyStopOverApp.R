@@ -6,37 +6,42 @@ library(shiny)
 library(dplyr)
 library(shinyTime)
 
+setwd("E:/Martin/99.Personal/KSCHOOL/20. TFM/MyStopover")
 load("Data_MyStopOver.RData")
 source("GeoCode.R")
 key <- "AIzaSyDketUNiJG3LMyMygdlofsXmOsDrdR0_5k"
-setwd("E:/Martin/99.Personal/KSCHOOL/20. TFM/MyStopover/Images")
 
 
 myPoiIcon <- makeIcon(
-  iconUrl = "poi_marker.png",
+  iconUrl = "Images/poi_marker.png",
   iconWidth = 35, iconHeight = 50,
   iconAnchorX = 18, iconAnchorY = 49
 )
 
 myRestIcon <- makeIcon(
-  iconUrl = "restaurant_icon.png",
+  iconUrl = "Images/restaurant_icon.png",
   iconWidth = 50, iconHeight = 50,
   iconAnchorX = 20, iconAnchorY = 20
 )
 
 
 myStartIcon <- makeIcon(
-  iconUrl = "start.png",
+  iconUrl = "Images/start_flag.png",
   iconWidth = 50, iconHeight = 50,
   iconAnchorX = 25, iconAnchorY = 45
 )
 
 
 myEndIcon <- makeIcon(
-  iconUrl = "flag.png",
+  iconUrl = "Images/finish_flag2.png",
   iconWidth = 50, iconHeight = 50,
   iconAnchorX = 7, iconAnchorY = 48
 )
+
+myLogo <- makeIcon(
+  iconUrl = "Images/Logo_MyStopOver.png"
+)
+
 
 origen <- "Hotel NH Collection Madrid Eurobuilding"
 final <- "Estacion de Atocha"
@@ -48,8 +53,8 @@ ptoFinal <- c( "40.4067477", "-3.691094", "GEOMETRIC_CENTER", "Madrid Atocha Rai
 
 ui <- fluidPage(
     titlePanel(
-      img(height = 150, width = 450, src="E:/Martin/99.Personal/KSCHOOL/20. TFM/MyStopover/Images/Logo_MyStopOver.png"),
-      tags$head(tags$link(rel = "icon", type = "image/png", href = "street-marker.png"), tags$title("My Stopover"))
+      img(height = 150, width = 450, src="Logo_MyStopOver.png"), 
+      tags$head(tags$link(rel = "icon", type = "image/png", href = "poi_marker.png"), tags$title("My Stopover"))
   ),
   
   sidebarLayout(
