@@ -11,3 +11,7 @@ El objetivo del trabajo es establecer una interfaz que muestre rutas personaliza
 * Modo de transporte (a pie, coche,)
 * Preferencias del usuario (museos, puntos emblemáticos, compras, parques,…) y rating
 * Precio medio de restaurantes, estilo de comida y rating
+
+## **Resultado**
+
+https://mdomingosancho.shinyapps.io/MyStopover/
