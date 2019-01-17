@@ -14,4 +14,4 @@ El objetivo del trabajo es establecer una interfaz que muestre rutas personaliza
 
 ## **Resultado**
 
-https://mdomingosancho.shinyapps.io/MyStopover/
+https://mdomingosancho.shinyapps.io/MyStopOverApp/
